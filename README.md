@@ -48,11 +48,18 @@
 
 ---
 
-## 📊 GitHub Activity (Text-Based)
-- 🔁 Regular contributor and learner
-- 📦 Builds real-world **Flutter & Full Stack projects**
-- 🛠 Strong focus on **clean code & practical implementation**
-- 🌱 Continuously improving **ML & backend skills**
+## 📊 GitHub Activity Snapshot
+
+<p align="left">
+  <img src="https://img.shields.io/github/commit-activity/y/ajscodes?label=Commits%20This%20Year&color=blue" />
+  <img src="https://img.shields.io/github/last-commit/ajscodes/ajscodes?label=Last%20Commit&color=success" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/github/contributors/ajscodes/ajscodes?label=Contributors" />
+  <img src="https://img.shields.io/github/followers/ajscodes?label=Followers&style=social" />
+</p>
+
 
 ---
 
