@@ -50,16 +50,7 @@
 
 ## 📊 GitHub Activity Snapshot
 
-<p align="left">
-  <img src="https://img.shields.io/github/commit-activity/y/ajscodes?label=Commits%20This%20Year&color=blue" />
-  <img src="https://img.shields.io/github/last-commit/ajscodes/ajscodes?label=Last%20Commit&color=success" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/github/contributors/ajscodes/ajscodes?label=Contributors" />
-  <img src="https://img.shields.io/github/followers/ajscodes?label=Followers&style=social" />
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajscodes&show_icons=true&theme=dark" /> <img src="https://nirzak-streak-stats.vercel.app/?user=ajscodes&theme=dark" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajscodes&layout=compact&theme=dark" /> </p>
 
 ---
 
