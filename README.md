@@ -21,8 +21,18 @@
 - Worked on **frontend & backend development**
 - Built and integrated **REST APIs**
 - Hands-on experience with **Databases & Authentication**
-- Used modern tools like **Flutter / React / Node.js / MongoDB / SQL**
-- Followed **real-world project workflow & version control**
+- Used **Flutter / React / Node.js / MongoDB / SQL**
+- Followed **real-world project workflow & Git version control**
+
+---
+
+## 🧠 Skills Summary
+- **Mobile Development:** Flutter, Dart
+- **Frontend:** HTML, CSS, React, Tailwind
+- **Backend:** Node.js, Express, .NET
+- **Databases:** MongoDB, Firebase, SQL Server, SQLite
+- **Machine Learning:** NumPy, Pandas, Matplotlib, scikit-learn
+- **Tools:** Git, GitHub, Postman, Anaconda
 
 ---
 
@@ -38,49 +48,11 @@
 
 ---
 
-## 💻 Tech Stack
-
-### 🚀 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🌐 Web & App Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
-
-### 🗄️ Database & Backend
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### 📊 Machine Learning & Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajscodes&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ajscodes&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajscodes&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
+## 📊 GitHub Activity (Text-Based)
+- 🔁 Regular contributor and learner
+- 📦 Builds real-world **Flutter & Full Stack projects**
+- 🛠 Strong focus on **clean code & practical implementation**
+- 🌱 Continuously improving **ML & backend skills**
 
 ---
 
