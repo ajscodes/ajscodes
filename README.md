@@ -48,12 +48,6 @@
 
 ---
 
-## 📊 GitHub Activity Snapshot
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajscodes&show_icons=true&theme=dark" /> <img src="https://nirzak-streak-stats.vercel.app/?user=ajscodes&theme=dark" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajscodes&layout=compact&theme=dark" /> </p>
-
----
-
 ## ✨ Quote
 > *"Build skills so strong that opportunities chase you."*
 
