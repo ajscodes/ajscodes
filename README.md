@@ -8,7 +8,7 @@
 ---
 
 ## 💫 About Me
-- 📱 **Flutter Developer** (Android & Cross-Platform Apps)
+- 📱 **Software Developer** 
 - 🌐 **Completed Internship in Full Stack Development**
 - 🤖 Currently learning **Machine Learning & Data Science**
 - 💻 Interested in **Backend, APIs, and Scalable Systems**
