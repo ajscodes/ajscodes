@@ -90,8 +90,11 @@ class Developer {
 ### 🗄 Databases
 
 <p align="center">
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/>
+&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=mongodb,sqlite&theme=dark"/>
+
 </p>
 
 ---
