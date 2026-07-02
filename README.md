@@ -1,56 +1,126 @@
-<h1 align="center">Hi 👋, I'm Ayush Maradia</h1>
-<h3 align="center">Flutter Developer • Full Stack Developer • Machine Learning Learner</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:9333EA&height=220&section=header&text=Ayush%20Maradia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20.NET%20Developer%20|%20Flutter%20Developer&descAlignY=60&descSize=18"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;ASP.NET+Core+%7C+React+%7C+Node.js;Flutter+Developer;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
+
+<p>
+
+<a href="mailto:ayushmaradia@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ajscodes">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/ayush-maradia0929484">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const ayush = {
+    education: "B.Tech CSE @ Darshan University",
+    role: "Full-Stack Developer",
+    backend: [".NET", "Node.js", "FastAPI"],
+    frontend: ["React", "Next.js", "Flutter"],
+    databases: ["SQL Server", "MongoDB"],
+    ai: ["Machine Learning", "Deep Learning"],
+    currentlyLearning: "System Design & ASP.NET Core",
+    funFact: "Turning ideas into real-world applications 🚀"
+}
+```
+
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajscodes&label=Profile%20Views&color=0e75b6&style=flat" alt="ajscodes" />
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,nodejs,express,flutter,dart,python,fastapi,mongodb,mysql,git,github,vscode,postman&theme=dark"/>
+
 </p>
 
 ---
 
-## 💫 About Me
-- 📱 **Software Developer** 
-- 🌐 **Completed Internship in Full Stack Development**
-- 🤖 Currently learning **Machine Learning & Data Science**
-- 💻 Interested in **Backend, APIs, and Scalable Systems**
-- 🚀 Passionate about building real-world projects
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| ❤️ **Heart Disease Prediction** | ML application for heart disease prediction | Python • FastAPI • Next.js |
+| 📈 **StockPredictAI** | Deep Learning based stock prediction using LSTM | PyTorch • React • FastAPI |
+| 📋 **Minutes of Meeting** | Enterprise meeting management system | ASP.NET Core • SQL Server |
+| 💰 **Expense Tracker** | Full Stack expense management application | React • Node.js • MongoDB |
+| 🚗 **My Auto** | Vehicle expense & reminder mobile app | Flutter • SQLite |
 
 ---
 
-## 🏢 Internship Experience
-### 💼 Full Stack Development Intern
-- Worked on **frontend & backend development**
-- Built and integrated **REST APIs**
-- Hands-on experience with **Databases & Authentication**
-- Used **Flutter / React / Node.js / MongoDB / SQL**
-- Followed **real-world project workflow & Git version control**
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajscodes&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajscodes&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ajscodes&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajscodes&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🧠 Skills Summary
-- **Mobile Development:** Flutter, Dart
-- **Frontend:** HTML, CSS, React, Tailwind
-- **Backend:** Node.js, Express, .NET
-- **Databases:** MongoDB, Firebase, SQL Server, SQLite
-- **Machine Learning:** NumPy, Pandas, Matplotlib, scikit-learn
-- **Tools:** Git, GitHub, Postman, Anaconda
+## 🤝 Connect With Me
 
----
+<p align="center">
 
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/ayush-maradia-a692402bb" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="mailto:ayushmaradia@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="mailto:maradiaayush@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<a href="https://github.com/ajscodes">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="https://linkedin.com/in/ayush-maradia0929484">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ajscodes&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+
 </p>
 
 ---
 
-## ✨ Quote
-> *"Build skills so strong that opportunities chase you."*
+<div align="center">
 
----
+### ⭐ Thanks for visiting my profile!
 
-⭐ **If you like my work, consider starring my repositories!**
+*"Code. Learn. Build. Repeat."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:7C3AED,100:4F46E5&height=120&section=footer"/>
+
+</div>
