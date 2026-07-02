@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FB,50:005BEA,100:6C63FF&height=220&section=header&text=Ayush%20Maradia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20•%20ASP.NET%20Developer%20•%20MERN%20Developer&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FB,50:005BEA,100:6C63FF&height=220&section=header&text=Ayush%20Maradia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20•%20ASP.NET%20Developer%20•%20Full%20Stack%20Developer&descAlignY=60&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Flutter+Developer;ASP.NET+Developer;MERN+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=Flutter+Developer;ASP.NET+Developer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Building+Real-World+Applications+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,6 +22,10 @@
 
 </div>
 
+<p align="center">
+Passionate Software Developer from 🇮🇳 India, building scalable mobile, web, and AI-powered applications with a focus on clean architecture and great user experiences.
+</p>
+
 ---
 
 ## 👋 About Me
@@ -31,18 +35,20 @@ class Developer {
 
   final String name = "Ayush Maradia";
 
+  final String role = "Software Developer";
+
   final String education =
       "B.Tech Computer Science & Engineering";
 
-  final List<String> interests = [
+  final List<String> expertise = [
     "Flutter",
     "ASP.NET Core",
-    "MERN Stack",
+    "Full Stack Development",
     "Machine Learning"
   ];
 
   final String currentlyLearning =
-      "System Design & Clean Architecture";
+      "ASP.NET Core Web API & Clean Architecture";
 
 }
 ```
@@ -60,7 +66,7 @@ class Developer {
 ### 💜 ASP.NET
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio&theme=dark"/>
 </p>
 
 ---
@@ -76,16 +82,26 @@ class Developer {
 ### 🤖 AI / ML
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch&theme=dark"/>
 </p>
 
 ---
 
-### ⚙ Tools
+### 🗄 Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mssql,mongodb,sqlite&theme=dark"/>
 </p>
+
+---
+
+### ⚙️ Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&theme=dark"/>
+</p>
+
+---
 
 ---
 
@@ -93,11 +109,12 @@ class Developer {
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🚗 My Auto
 
-Flutter application for managing vehicle expenses, insurance, PUC, and service reminders with multi-vehicle support.
+A Flutter application for managing vehicle expenses, insurance, PUC, service reminders, and multiple vehicles.
 
 **Tech Stack**
 
@@ -106,71 +123,61 @@ Flutter application for managing vehicle expenses, insurance, PUC, and service r
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square)
 
-🔗 **Coming Soon**
+🚧 **Status:** Currently in Testing
+
+📱 **Google Play Store Release Coming Soon**
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📋 Minutes of Meeting
 
-Enterprise Meeting Management System built using ASP.NET Core MVC with authentication and attendance management.
+Meeting management system with scheduling, attendance tracking, and authentication.
 
 **Tech Stack**
 
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
 
-🔗 **Repository**
+<br>
 
-https://github.com/ajscodes/Minutes-of-Meeting-Management
+<a href="https://github.com/ajscodes/Minutes-of-Meeting-Management">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 💰 Expense Tracker
 
-A Full Stack MERN application for tracking daily income and expenses with a modern dashboard.
+A full-stack MERN application for tracking daily income and expenses.
 
 **Tech Stack**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
 
-🔗 **Repository**
+<br>
 
-https://github.com/ajscodes/Expense-Tracker-App
-
-</td>
-
-<td width="50%">
-
-### ❤️ Heart Disease Prediction
-
-Machine Learning application that predicts heart disease using multiple classification algorithms.
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
-
-🌐 https://heart-disease-prediction-using-mach.vercel.app/
+<a href="https://github.com/ajscodes/Expense-Tracker-App">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
-</tr>
 
-<tr>
-<td colspan="2">
+<td width="50%" valign="top">
 
 ### 📈 StockPredictAI
 
-Deep Learning web application that predicts stock prices using an LSTM model with interactive visualizations.
+Deep Learning web application for stock price forecasting using LSTM.
 
 **Tech Stack**
 
@@ -178,42 +185,49 @@ Deep Learning web application that predicts stock prices using an LSTM model wit
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
 
-🌐 https://stock-price-forecaster.vercel.app/
+<br>
+
+<a href="https://stock-price-forecaster.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ajscodes/StockPredictAI">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 </tr>
 
-</table>
+<tr>
 
----
+<td colspan="2" valign="top">
 
-## 📊 GitHub Analytics
+### ❤️ Heart Disease Prediction
 
-<div align="center">
+Machine Learning web application that predicts heart disease using multiple classification models.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajscodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+**Tech Stack**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajscodes&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
 
 <br>
 
-<div align="center">
+<a href="https://heart-disease-prediction-using-mach.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<img src="https://streak-stats.demolab.com?user=ajscodes&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/ajscodes/Heart-Disease-Prediction-Using-Machine-Learning">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</div>
+</td>
 
----
+</tr>
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajscodes&theme=tokyo-night&hide_border=true"/>
-
-</div>
+</table>
 
 ---
 
@@ -237,12 +251,16 @@ Deep Learning web application that predicts stock prices using an LSTM model wit
 
 ## 💼 Open to Opportunities
 
-I'm currently looking for opportunities as a:
+I'm open to Software Developer roles across different technologies.
 
-- 📱 Flutter Developer
-- 💜 ASP.NET Developer
-- 🌐 MERN Stack Developer
-- 🤖 AI / ML Developer
+My current strengths include:
+
+- 📱 Flutter Development
+- 💜 ASP.NET Development
+- 🌐 Full Stack Development
+- 🤖 AI & Machine Learning
+
+I enjoy learning new technologies and can quickly adapt to different tools, frameworks, and development environments.
 
 If you have an exciting project or opportunity, feel free to reach out!
 
