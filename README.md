@@ -18,10 +18,6 @@
 
 </div>
 
-<p align="center">
-Passionate Software Developer, building scalable mobile, web, and AI-powered applications with a focus on clean architecture and great user experiences.
-</p>
-
 ---
 
 ## 👋 About Me
