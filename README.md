@@ -12,10 +12,6 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ajscodes">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://linkedin.com/in/ayush-maradia0929484">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -23,7 +19,7 @@
 </div>
 
 <p align="center">
-Passionate Software Developer from 🇮🇳 India, building scalable mobile, web, and AI-powered applications with a focus on clean architecture and great user experiences.
+Passionate Software Developer, building scalable mobile, web, and AI-powered applications with a focus on clean architecture and great user experiences.
 </p>
 
 ---
@@ -82,7 +78,7 @@ class Developer {
 ### 🤖 AI / ML
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,sklearn,fastapi,pytorch&theme=dark"/>
 </p>
 
 ---
@@ -107,9 +103,7 @@ class Developer {
 
 ---
 
----
-
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <table>
 <tr>
@@ -245,28 +239,11 @@ Machine Learning web application that predicts heart disease using multiple clas
 
 ## 🌱 Currently Exploring
 
-- 📱 Advanced Flutter Development
+- 📱 Flutter Development
 - 💜 ASP.NET Core Web APIs
 - 🌐 Clean Architecture & Design Patterns
 - ☁️ RESTful API Development
 - 🤖 Machine Learning & AI
-
----
-
-## 💼 Open to Opportunities
-
-I'm open to Software Developer roles across different technologies.
-
-My current strengths include:
-
-- 📱 Flutter Development
-- 💜 ASP.NET Development
-- 🌐 Full Stack Development
-- 🤖 AI & Machine Learning
-
-I enjoy learning new technologies and can quickly adapt to different tools, frameworks, and development environments.
-
-If you have an exciting project or opportunity, feel free to reach out!
 
 ---
 
@@ -276,10 +253,6 @@ If you have an exciting project or opportunity, feel free to reach out!
 
 <a href="mailto:ayushmaradia@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ajscodes">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/ayush-maradia0929484">
